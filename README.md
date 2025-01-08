@@ -11,10 +11,11 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MattStewart | Facebook" width="22px" src="https://www.facebook.com/matthew.stewart.58367/npm/simple-icons@v3/icons/Facebook.svg" />][Facebook]
 
-[twitter]: https://twitter.com/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://x.com/M_Stewie80/
+[instagram]: https://www.instagram.com/stewz112//
+[linkedin]: https://www.linkedin.com/in/matt-stewart-b691112bb/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
