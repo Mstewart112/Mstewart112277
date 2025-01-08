@@ -18,7 +18,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/M_Stewie80
-[instagram]: https://www.instagram.com/stewz112//
+[instagram]: https://www.instagram.com/stewz112/
 [linkedin]: https://linkedin.com/in/matt-stewart-b691112bb/
 
 <!--
